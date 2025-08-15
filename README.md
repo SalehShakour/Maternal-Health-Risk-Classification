@@ -3,7 +3,7 @@
 ## Overview
 
 This project presents a critical re-evaluation and extension of the study  
-**["Comparative Assessment of Several Effective Machine Learning Classification Methods for Maternal Health Risk"](https://cjmss.journals.ekb.eg/article_340561.html)**  
+**["Comparative Assessment of Several Effective Machine Learning Classification Methods for Maternal Health Risk"](https://www.researchgate.net/publication/379465603_Comparative_Assessment_of_Several_Effective_Machine_Learning_Classification_Methods_for_Maternal_Health_Risk)**  
 by Raihen and Akter (2024).  
 
 While the original work compared several machine learning algorithms on the UCI Maternal Health Risk dataset, it overlooked a significant flaw: **562 duplicate records** in the dataset. Such duplicates can cause data leakage between training and test sets, inflating performance metrics and painting an overly optimistic picture of model capabilities.
@@ -18,7 +18,7 @@ Our work:
 
 ## Dataset
 
-We use the **Maternal Health Risk Data Set** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Maternal+Health+Risk+Data+Set), containing 1,014 samples and 7 features.
+We use the **Maternal Health Risk Data Set** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/863/maternal+health+risk), containing 1,014 samples and 7 features.
 
 | Feature       | Description |
 |---------------|-------------|
